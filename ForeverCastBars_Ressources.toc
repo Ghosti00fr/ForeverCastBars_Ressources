@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Forever Cast Bars - Resources
+## Title-frFR: Forever Cast Bars - Ressources
+## Title-esES: Forever Cast Bars - Recursos
+## Title-esMX: Forever Cast Bars - Recursos
+## Notes: Resources module for Forever Cast Bars: spell icons on your action bars fill up, in the spell's Forever Cast Bars theme, as your mana, rage, energy or focus comes back. Optional.
+## Notes-frFR: Module Ressources pour Forever Cast Bars : les icônes de sorts de vos barres d'action se remplissent, aux couleurs du thème du sort, à mesure que mana, rage, énergie ou focalisation reviennent. Optionnel.
+## Notes-esES: Módulo de recursos para Forever Cast Bars: los iconos de hechizos de tus barras de acción se llenan, con el tema del hechizo, a medida que recuperas maná, ira, energía o enfoque. Opcional.
+## Notes-esMX: Módulo de recursos para Forever Cast Bars: los iconos de hechizos de tus barras de acción se llenan, con el tema del hechizo, a medida que recuperas maná, ira, energía o enfoque. Opcional.
+## Author: Ghosti
+## Version: 0.0.39
+## X-License: All Rights Reserved
+## Dependencies: ForeverCastBars
+## IconTexture: Interface\Icons\Inv_Potion_76
+
+Ressources.lua
